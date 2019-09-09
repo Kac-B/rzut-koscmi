@@ -26,4 +26,4 @@ while gramy=="tak":
    
     rzut.clear()
     wylosowane.clear()
-    gramy=input("Cz chcesz zagrac jeszcze raz? (tak/nie)")
+    gramy=input("Czy chcesz zagrac jeszcze raz? (tak/nie)")
